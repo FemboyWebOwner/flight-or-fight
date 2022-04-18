@@ -1,2 +1,34 @@
-# flight-or-fight
-most epic website ever
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School fight videos</title>
+<style>
+h1 {
+color:whitesmoke
+
+}
+
+filename {
+    color:whitesmoke
+
+}
+
+</style>
+
+</head>
+<body style="background-color:lightblue;"></body>
+
+<h1>Upload Here</h1> 
+
+<form action="/action_page.php"> </form>
+
+<input type="file" id="myFile">
+
+</form>
+
+
+<h2 style="border:lightcyan; border-width:5px; border-style:solid;"> Contact by emailing me at, no where dont contact me</h2> 
+</body>
+</html>
